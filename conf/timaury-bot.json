@@ -1,0 +1,8 @@
+{
+	"PORT": 3000,
+	"MESSENGER":{
+		"PAGE_ACCESS_TOKEN":"",
+		"VALIDATION_TOKEN":"",
+		"APP_SECRET":""
+	}
+}
